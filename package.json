@@ -1,22 +1,22 @@
 {
-  "name": "my-github-actions-projects",
+  "name": "my-github-action-projects",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "mocha",
+    "test": "mocha --exit",
     "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamKimlong/my-github-actions-projects.git"
+    "url": "git+https://github.com/iamKimlong/my-github-action-projects.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamKimlong/my-github-actions-projects/issues"
+    "url": "https://github.com/iamKimlong/my-github-action-projects/issues"
   },
-  "homepage": "https://github.com/iamKimlong/my-github-actions-projects#readme",
+  "homepage": "https://github.com/iamKimlong/my-github-action-projects#readme",
   "description": "",
   "dependencies": {
     "chai": "^4.5.0",
