@@ -10,4 +10,7 @@
     "express": "^5.1.0",
     "mocha": "^11.7.1"
   }
+  "scripts": {
+    "test": "mocha"
+  }
 }
