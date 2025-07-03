@@ -6,7 +6,7 @@
   "author": "iamKimlong <iamKimlong@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "chai": "^5.2.0",
+    "chai": "^4.5.0",
     "express": "^5.1.0",
     "mocha": "^11.7.1"
   },
